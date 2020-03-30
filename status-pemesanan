@@ -1,0 +1,577 @@
+
+<!DOCTYPE html>
+
+<html lang="id-ID">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>Status Pemesanan &#8211; Fizpro</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Fizpro &raquo; Feed" href="http://localhost/fizpro/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fizpro &raquo; Umpan Komentar" href="http://localhost/fizpro/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/fizpro\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://localhost/fizpro/wp-includes/css/dashicons.min.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://localhost/fizpro/wp-includes/css/admin-bar.min.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://localhost/fizpro/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.6.2' media='all' />
+<link rel='stylesheet' id='elementor-common-css'  href='http://localhost/fizpro/wp-content/plugins/elementor/assets/css/common.min.css?ver=2.9.7' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/fizpro/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='wpbf-style-css'  href='http://localhost/fizpro/wp-content/themes/page-builder-framework/style.css?ver=2.3' media='all' />
+<style id='wpbf-style-inline-css'>
+.wpbf-archive-content .wpbf-post{text-align:left;}
+</style>
+<link rel='stylesheet' id='wpbf-responsive-css'  href='http://localhost/fizpro/wp-content/themes/page-builder-framework/css/min/responsive-min.css?ver=2.3' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://localhost/fizpro/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.7' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://localhost/fizpro/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.7' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://localhost/fizpro/wp-content/uploads/elementor/css/global.css?ver=1585492708' media='all' />
+<link rel='stylesheet' id='elementor-post-25-css'  href='http://localhost/fizpro/wp-content/uploads/elementor/css/post-25.css?ver=1585499661' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.3.2' media='all' />
+<script src='http://localhost/fizpro/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script src='http://localhost/fizpro/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://localhost/fizpro/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/fizpro/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/fizpro/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel="canonical" href="http://localhost/fizpro/status-pemesanan/" />
+<link rel='shortlink' href='http://localhost/fizpro/?p=25' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost/fizpro/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Ffizpro%2Fstatus-pemesanan%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost/fizpro/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Ffizpro%2Fstatus-pemesanan%2F&#038;format=xml" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	<style id="kirki-inline-styles"></style></head>
+<body class="page-template page-template-elementor_header_footer page page-id-25 logged-in admin-bar no-customize-support wpbf wpbf-status-pemesanan wpbf-no-sidebar wpbf-full-width elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-25" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	<a class="screen-reader-text skip-link" href="#content" title="Lompat ke konten">Lompat ke konten</a>
+
+	
+	
+	<div id="container" class="hfeed wpbf-page">
+
+		
+		
+				<div data-elementor-type="wp-page" data-elementor-id="25" class="elementor elementor-25" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-62e6daf elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="62e6daf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-df52b09 elementor-column elementor-col-50 elementor-top-column" data-id="df52b09" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3212d03 elementor-widget elementor-widget-image" data-id="3212d03" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="195" height="72" src="http://localhost/fizpro/wp-content/uploads/2020/03/ss-1.png" class="attachment-medium size-medium" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f19443a elementor-column elementor-col-50 elementor-top-column" data-id="f19443a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-67955a6 elementor-widget elementor-widget-heading" data-id="67955a6" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Status Pemesanan</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-9bb6800 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="9bb6800" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-157335f elementor-column elementor-col-50 elementor-top-column" data-id="157335f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-731264e elementor-widget elementor-widget-heading" data-id="731264e" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No. Invoice</p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-936afc3 elementor-column elementor-col-50 elementor-top-column" data-id="936afc3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-feca18b elementor-widget elementor-widget-heading" data-id="feca18b" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">INV/SWP/2020/0516&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4b467ac elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4b467ac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-a26f062 elementor-column elementor-col-20 elementor-top-column" data-id="a26f062" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-126f7a8 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="126f7a8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+										<img width="300" height="118" src="http://localhost/fizpro/wp-content/uploads/2020/03/1-300x118.png" class="attachment-medium size-medium" alt="" srcset="http://localhost/fizpro/wp-content/uploads/2020/03/1-300x118.png 300w, http://localhost/fizpro/wp-content/uploads/2020/03/1-1024x404.png 1024w, http://localhost/fizpro/wp-content/uploads/2020/03/1-768x303.png 768w, http://localhost/fizpro/wp-content/uploads/2020/03/1-1536x606.png 1536w, http://localhost/fizpro/wp-content/uploads/2020/03/1.png 1606w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="widget-image-caption wp-caption-text">Pesanan Dibayar<br>01-01-2020</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-ba2480a elementor-column elementor-col-20 elementor-top-column" data-id="ba2480a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7c58fc0 elementor-widget elementor-widget-image" data-id="7c58fc0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+										<img width="300" height="118" src="http://localhost/fizpro/wp-content/uploads/2020/03/2-1-300x118.png" class="attachment-medium size-medium" alt="" srcset="http://localhost/fizpro/wp-content/uploads/2020/03/2-1-300x118.png 300w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1-1024x404.png 1024w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1-768x303.png 768w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1-1536x606.png 1536w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1.png 1606w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="widget-image-caption wp-caption-text">Pesanan Disetujui<br> 01-01-2020</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-38de8c4 elementor-column elementor-col-20 elementor-top-column" data-id="38de8c4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-440a794 elementor-widget elementor-widget-image" data-id="440a794" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+										<img width="300" height="118" src="http://localhost/fizpro/wp-content/uploads/2020/03/2-1-300x118.png" class="attachment-medium size-medium" alt="" srcset="http://localhost/fizpro/wp-content/uploads/2020/03/2-1-300x118.png 300w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1-1024x404.png 1024w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1-768x303.png 768w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1-1536x606.png 1536w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1.png 1606w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="widget-image-caption wp-caption-text">Pesanan Diproses<br> 01-01-2020</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-472e02d elementor-column elementor-col-20 elementor-top-column" data-id="472e02d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-24d4c92 elementor-widget elementor-widget-image" data-id="24d4c92" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+										<img width="300" height="118" src="http://localhost/fizpro/wp-content/uploads/2020/03/2-1-300x118.png" class="attachment-medium size-medium" alt="" srcset="http://localhost/fizpro/wp-content/uploads/2020/03/2-1-300x118.png 300w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1-1024x404.png 1024w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1-768x303.png 768w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1-1536x606.png 1536w, http://localhost/fizpro/wp-content/uploads/2020/03/2-1.png 1606w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="widget-image-caption wp-caption-text">Pesanan Dikirim<br> 01-01-2020</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1567f72 elementor-column elementor-col-20 elementor-top-column" data-id="1567f72" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ff636f9 elementor-widget elementor-widget-image" data-id="ff636f9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+										<img width="300" height="118" src="http://localhost/fizpro/wp-content/uploads/2020/03/3-1-300x118.png" class="attachment-medium size-medium" alt="" srcset="http://localhost/fizpro/wp-content/uploads/2020/03/3-1-300x118.png 300w, http://localhost/fizpro/wp-content/uploads/2020/03/3-1-1024x404.png 1024w, http://localhost/fizpro/wp-content/uploads/2020/03/3-1-768x303.png 768w, http://localhost/fizpro/wp-content/uploads/2020/03/3-1-1536x606.png 1536w, http://localhost/fizpro/wp-content/uploads/2020/03/3-1.png 1606w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="widget-image-caption wp-caption-text">Pesanan Diterima<br> 01-01-2020</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-a440657 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="a440657" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-eb2248b elementor-column elementor-col-100 elementor-top-column" data-id="eb2248b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ee8d752 elementor-widget elementor-widget-spacer" data-id="ee8d752" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-1c9c637 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="1c9c637" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4250c74 elementor-column elementor-col-100 elementor-top-column" data-id="4250c74" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-913c1d9 elementor-widget elementor-widget-heading" data-id="913c1d9" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Detail Pesanan</p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-c59cade elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c59cade" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-878fd38 elementor-column elementor-col-50 elementor-top-column" data-id="878fd38" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f8852ef elementor-widget elementor-widget-heading" data-id="f8852ef" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Bendera <br> Setting Design <br> Ongkos Kirim <br> <b>Diskon</b></p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-0286128 elementor-column elementor-col-50 elementor-top-column" data-id="0286128" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f82872b elementor-widget elementor-widget-heading" data-id="f82872b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Rp 90.000<br> Rp 30.000<br> Rp 0 <br> <b>(Rp 20.000)</b></p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6a8815b elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6a8815b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6c3f650 elementor-column elementor-col-100 elementor-top-column" data-id="6c3f650" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e32c03c elementor-widget elementor-widget-divider" data-id="e32c03c" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-454355e elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="454355e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-fae00b3 elementor-column elementor-col-50 elementor-top-column" data-id="fae00b3" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-8510fc7 elementor-widget elementor-widget-heading" data-id="8510fc7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Total</p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-0df036e elementor-column elementor-col-50 elementor-top-column" data-id="0df036e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-40fd739 elementor-widget elementor-widget-heading" data-id="40fd739" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Rp 120.000 </p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-0b3d7ab elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="0b3d7ab" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-bbf2855 elementor-column elementor-col-100 elementor-top-column" data-id="bbf2855" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ce83ccf elementor-widget elementor-widget-divider" data-id="ce83ccf" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-ef6d2ae elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ef6d2ae" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-8f071b8 elementor-column elementor-col-100 elementor-top-column" data-id="8f071b8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-291b249 elementor-widget elementor-widget-spacer" data-id="291b249" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6de11c7 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6de11c7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c334b18 elementor-column elementor-col-100 elementor-top-column" data-id="c334b18" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-11cc4b7 elementor-widget elementor-widget-heading" data-id="11cc4b7" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Detail Pengiriman</p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-487703d elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="487703d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5675635 elementor-column elementor-col-50 elementor-top-column" data-id="5675635" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d05b957 elementor-widget elementor-widget-heading" data-id="d05b957" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Penerima <br> Nomor Handphone <br> Alamat <br></p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-e9b00be elementor-column elementor-col-50 elementor-top-column" data-id="e9b00be" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-33d5761 elementor-widget elementor-widget-heading" data-id="33d5761" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Fahmi<br> 08128928397 <br> Jl. Candi Prambanan 6 Blok B 100</p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-39a6cc1 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="39a6cc1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7bb49fa elementor-column elementor-col-100 elementor-top-column" data-id="7bb49fa" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-489e641 elementor-widget elementor-widget-spacer" data-id="489e641" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-cc94cf2 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="cc94cf2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b3de7b5 elementor-column elementor-col-33 elementor-top-column" data-id="b3de7b5" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d3f3f8a elementor-widget elementor-widget-heading" data-id="d3f3f8a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Batas Waktu Tersisa Untuk Melakukan Pembayaran :</p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-3507989 elementor-column elementor-col-33 elementor-top-column" data-id="3507989" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c1cd76e elementor-widget elementor-widget-html" data-id="c1cd76e" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style type="text/css">
+        .margin {
+            margin: 0px 0px 0px 30px;
+        }
+    </style><font size=5 color=#2E3350><p id="demo" class="margin"></p></font>
+<script>
+// Mengatur waktu akhir perhitungan mundur
+var countDownDate = new Date("Mar 30, 2020 15:37:25").getTime();
+
+// Memperbarui hitungan mundur setiap 1 detik
+var x = setInterval(function() {
+
+  // Untuk mendapatkan tanggal dan waktu hari ini
+  var now = new Date().getTime();
+    
+  // Temukan jarak antara sekarang dan tanggal hitung mundur
+  var distance = countDownDate - now;
+    
+  // Perhitungan waktu untuk hari, jam, menit dan detik
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Keluarkan hasil dalam elemen dengan id = "demo"
+  document.getElementById("demo").innerHTML = hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // Jika hitungan mundur selesai, tulis beberapa teks 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>		
+<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Skip</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true" title="Close"></i>
+				<span class="elementor-screen-only">Close</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper elementor-gradient-logo">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search"></i>
+		<input id="elementor-finder__search__input" placeholder="Type to find anything in Elementor">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">No Results Found</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<script src='http://localhost/fizpro/wp-includes/js/hoverintent-js.min.js?ver=2.2.1'></script>
+<script src='http://localhost/fizpro/wp-includes/js/admin-bar.min.js?ver=5.3.2'></script>
+<script src='http://localhost/fizpro/wp-content/themes/page-builder-framework/js/min/site-min.js?ver=2.3'></script>
+<script src='http://localhost/fizpro/wp-content/themes/page-builder-framework/js/min/mobile-hamburger-min.js?ver=2.3'></script>
+<script src='http://localhost/fizpro/wp-includes/js/comment-reply.min.js?ver=5.3.2'></script>
+<script src='http://localhost/fizpro/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script src='http://localhost/fizpro/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script src='http://localhost/fizpro/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script src='http://localhost/fizpro/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script src='http://localhost/fizpro/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script src='http://localhost/fizpro/wp-includes/js/backbone.min.js?ver=1.4.0'></script>
+<script src='http://localhost/fizpro/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5'></script>
+<script src='http://localhost/fizpro/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4'></script>
+<script src='http://localhost/fizpro/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=2.9.7'></script>
+<script src='http://localhost/fizpro/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script src='http://localhost/fizpro/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script>
+var elementorCommonConfig = {"version":"2.9.7","isRTL":false,"isDebug":false,"activeModules":["ajax","finder","connect"],"urls":{"assets":"http:\/\/localhost\/fizpro\/wp-content\/plugins\/elementor\/assets\/"},"ajax":{"url":"http:\/\/localhost\/fizpro\/wp-admin\/admin-ajax.php","nonce":"65fb455cd5"},"finder":{"data":{"edit":{"title":"Edit","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Saved Templates","icon":"library-save","url":"http:\/\/localhost\/fizpro\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"http:\/\/localhost\/fizpro\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Role Manager","icon":"person","url":"http:\/\/localhost\/fizpro\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Knowledge Base","url":"http:\/\/localhost\/fizpro\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]}},"name":"general"},"create":{"title":"Create","dynamic":false,"items":{"post":{"title":"Add New Pos","icon":"plus-circle-o","url":"http:\/\/localhost\/fizpro\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&_wpnonce=46a6e8edb1","keywords":["post","page","template","new","create"]},"page":{"title":"Add New Laman","icon":"plus-circle-o","url":"http:\/\/localhost\/fizpro\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&_wpnonce=46a6e8edb1","keywords":["post","page","template","new","create"]},"elementor_library":{"title":"Add New Template","icon":"plus-circle-o","url":"http:\/\/localhost\/fizpro\/wp-admin\/edit.php?post_type=elementor_library#add_new","keywords":["post","page","template","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"http:\/\/localhost\/fizpro","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"http:\/\/localhost\/fizpro\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"http:\/\/localhost\/fizpro\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"http:\/\/localhost\/fizpro\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"http:\/\/localhost\/fizpro\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"http:\/\/localhost\/fizpro\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Users","icon":"wordpress","url":"http:\/\/localhost\/fizpro\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Settings","dynamic":false,"items":{"general-settings":{"title":"General Settings","url":"http:\/\/localhost\/fizpro\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"style":{"title":"Style","url":"http:\/\/localhost\/fizpro\/wp-admin\/admin.php?page=elementor#tab-style","keywords":["style","settings","elementor"]},"advanced":{"title":"Advanced","url":"http:\/\/localhost\/fizpro\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]}},"name":"settings"},"tools":{"title":"Tools","dynamic":false,"items":{"tools":{"title":"Tools","icon":"tools","url":"http:\/\/localhost\/fizpro\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Replace URL","icon":"tools","url":"http:\/\/localhost\/fizpro\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"version-control":{"title":"Version Control","icon":"time-line","url":"http:\/\/localhost\/fizpro\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]},"maintenance-mode":{"title":"Maintenance Mode","icon":"tools","url":"http:\/\/localhost\/fizpro\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]}},"name":"tools"}},"i18n":{"finder":"Finder"}},"connect":[]};
+</script>
+<script src='http://localhost/fizpro/wp-content/plugins/elementor/assets/js/common.min.js?ver=2.9.7'></script>
+<script src='http://localhost/fizpro/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script src='http://localhost/fizpro/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.7'></script>
+<script src='http://localhost/fizpro/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script src='http://localhost/fizpro/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script src='http://localhost/fizpro/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.7'></script>
+<script>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.7","urls":{"assets":"http:\/\/localhost\/fizpro\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":25,"title":"Status%20Pemesanan%20%E2%80%93%20Fizpro","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+</script>
+<script src='http://localhost/fizpro/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.7'></script>
+	<!--[if lte IE 8]>
+		<script>
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script>
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+						request = true;
+		
+				b[c] = b[c].replace( rcs, ' ' );
+				// The customizer requires postMessage and CORS (if the site is cross domain)
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+	<!--<![endif]-->
+		
+</body>
+
+</html>
